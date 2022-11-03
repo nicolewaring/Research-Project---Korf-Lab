@@ -11,7 +11,7 @@ Goal: Develop a BLAST-based solution to finding CNS
 		+ Favorite genome annotations in GFF3 format
 	+ Pre-processing
 		+ Remove known coding sequence
-		+ Make sequences manageable in size
+		+ Make sequences manageable in size (maybe)
 	+ Alignment
 		+ Index 'database' files
 		+ Run BLASTN with optimal parameters on pairs of genoems
