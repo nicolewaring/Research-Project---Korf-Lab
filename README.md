@@ -20,3 +20,10 @@ Goal: Develop a BLAST-based solution to finding CNS
 		+ Identify conserved families
 	+ Output
 		+ Something organized and intuitive
+
+
+## Removing Coding Sequence ##
+
+```
+python3 feature_masker.py ../datacore/genome_celegans/1pct_elegans.fa ../datacore/genome_celegans/1pct_elegans.gff3
+```
